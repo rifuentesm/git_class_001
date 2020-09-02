@@ -24,5 +24,7 @@
 
 **Workflow with GitHub**
 
+**Thoughts**
+
 Sometimes it feels like using a time machine to manage the code.
 
