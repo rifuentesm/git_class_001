@@ -2,7 +2,9 @@
 
 
 > Repository for the git class of Platzi
+
 > Because, who cares another generic title!
+
 > First things first, repo for learning git/github
 
 **Examples using different github commands**
