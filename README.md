@@ -1,12 +1,9 @@
 # git_class_001
 
-> Porque, que mas da un titulo generico
 
 > Repository for the git class of Platzi
-
 > Because, who cares another generic title!
-
-> First things first, repository to learn git/github
+> First things first, repo for learning git/github
 
 **Examples using different github commands**
 
